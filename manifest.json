@@ -1,7 +1,7 @@
 {
- "version": "1.2.2",
+ "version": "1.2.3",
  "date": "2026-09-03",
- "notes": "打磨第二批：\n- 分享卡换暖纸人格：奶油纸底 + 陶土橙点缀 + 暖黑文字，与应用主题同一套设计语言\n- 编辑区行距优化（等宽字体阅读舒适度）\n- 右下角字数 · 阅读时长呼吸灯\n- ⌘1/⌘2/⌘3 快速切换 预览/双栏/编辑",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.2.2/Markdown-1.2.2.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.2.2.zip"
+ "notes": "本次更新：\n- 大纲支持中文序号标题：一、二、三、… 式章节直接进目录（中文写作常用），点击预览按原文搜索平滑定位、编辑栏光标跟随\n- 修复大纲解析器历史缺陷：表格/引用块内的 # 不再误判为标题；解析器分支曾被截断丢失，本轮整体重写并补全\n- 两种风格混排时 ATX 跳转索引修正（DOM 序号独立计数，不再被中文序号项挤偏）",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.2.3/Markdown-1.2.3.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.2.3.zip"
 }
