@@ -1,7 +1,7 @@
 {
- "version": "1.4.0",
+ "version": "1.4.1",
  "date": "2026-09-03",
- "notes": "功能四连：\n- 插入图片：工具栏选图或从访达直接拖进编辑区，图片自动存到文档同级 assets 目录并以相对路径引用（⌘⇧I 也可）\n- 导出 HTML：带完整样式与当前主题的单文件 HTML，发给别人双击就能看（⌘⇧E）\n- 打印 / 存为 PDF：⌘P 调起原生打印，所见即所得\n- 工具栏重组：分享卡/HTML/PDF/下载收进「导出」菜单",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.4.0/Markdown-1.4.0.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.4.0.zip"
+ "notes": "补齐全局快捷键（此前仅在菜单内提示）：\n⌘⇧I 插入图片 · ⌘⇧S 分享卡 · ⌘⇧E 导出 HTML · ⌘P 打印/存为 PDF\n配合已有：⌘1/2/3 切视图 · ⌘B/I/K 格式 · ⌘F 搜索",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.4.1/Markdown-1.4.1.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.4.1.zip"
 }
