@@ -1,7 +1,7 @@
 {
- "version": "1.4.2",
+ "version": "1.6.0",
  "date": "2026-09-03",
- "notes": "修复：主题轮换（尤其 🌛→☀️）时页面白闪、滚动位置丢失——\n根因是主题壳用 if/else 分支挂修饰符，分支翻转导致整个内容视图被 SwiftUI 重建、WebView 重载；现改为修饰符常驻、仅切换参数，视图身份稳定，三态切换零闪烁",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.4.2/Markdown-1.4.2.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.4.2.zip"
+ "notes": "正式版 v1.6.0 —— Cola 设计语言全套落地：\n\n- 工具栏纸片按钮：胶囊形、白底米棕轻边、细腻阴影，悬停浮起、按压缩放；视图切换激活态橙色纸片\n- 全屏配色按真实截图校准：近白暖底 #FEFDF9、表面 #F7F3EE、低透明米棕边框、细线图标\n- 设置面板（齿轮弹窗 + ⌘, 系统设置）跟随主题三态变色\n- 夜晚主题下全套自动切暖暗变体",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.0/Markdown-1.6.0.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.0.zip"
 }
