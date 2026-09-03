@@ -1,6 +1,6 @@
 {
- "version": "1.1.2",
+ "version": "1.1.3",
  "date": "2026-09-03",
- "notes": "本次更新：\n- 分享卡支持完整 Markdown 排版：表格、标题、列表、引用、代码块、分隔线全部正确渲染（此前表格显示为原始竖线格式）\n- 分享卡可读性调优：标题分级字号、段落间距、列表缩进与项目符号着色、表格斑马纹边框、代码块浅底卡片",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.1.2/Markdown-1.1.2.zip"
+ "notes": "本次更新：\n- 新增「暖橙」预览主题（Cola 风）：奶油白底 + 陶土橙点缀 + 暖黑文字 + 米棕边框，标题衬线字体\n- 主题切换：工具栏调色盘按钮 🎨，经典/暖橙一键切换，记住选择\n- 字体策略零打包：Fraunces→Georgia→宋体 系统字体栈优雅回退，App 体积不变（依然 4MB）",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.1.3/Markdown-1.1.3.zip"
 }
