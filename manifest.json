@@ -1,7 +1,7 @@
 {
- "version": "1.2.0",
+ "version": "1.2.1",
  "date": "2026-09-03",
- "notes": "本次更新（打磨大版本）：\n- 修复经典主题壳色错乱（1.1.6 误伤原生工具栏材质），经典=纯原生，暖橙=全套奶油壳\n- 更新链路加固：下载新增国内 CDN 备链（主链失败自动切换）；失败改为弹窗指引（含'去发布页手动下载'出口）\n- 排版系统重做（学 Cola 神韵）：行高 1.78、呼吸感段落间距、标题层级节奏、列表/引用/代码/表格全面调律\n- 工具栏重组：复制三连收进菜单、字号改紧凑步进器",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.2.0/Markdown-1.2.0.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.2.0.zip"
+ "notes": "v1.2.0 全量打磨 + 更新源链加固：\n- 经典主题壳色错乱修复；暖橙全套奶油壳\n- 排版系统重做（学 Cola 神韵）：行高/间距/标题节奏/列表引用代码表格全面调律\n- 工具栏重组：复制收进菜单、字号紧凑步进\n- 更新链路三级源：raw+缓存击穿 → GitHub API 无缓存 → jsDelivr 兜底（并防过期缓存误判'已是最新'——笔记本'更新没反应'的根因）；下载失败自动落国内 CDN 备链",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.2.1/Markdown-1.2.1.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.2.1.zip"
 }
