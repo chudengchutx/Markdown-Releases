@@ -1,6 +1,6 @@
 {
- "version": "1.1.4",
+ "version": "1.1.5",
  "date": "2026-09-03",
- "notes": "本次更新：\n- 暖橙主题配色加深：奶油纸底、代码块/表头暖沙色、引用橙条米底、表格米棕条纹——切换主题一眼可辨（第一版过淡接近白色，几乎看不出变化）\n- 修复代码块白底：hljs 高亮主题自带的白色背景在暖橙主题下被正确压掉",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.1.4/Markdown-1.1.4.zip"
+ "notes": "本次更新：\n- 更新交互修复：手动检查发现新版直接弹出更新窗口（此前只显示短暂提示+红点，需要再点一次，体验像'没反应'）\n- 检查中按钮显示进度转圈；网络失败提示明确指引（代理问题）\n- 检查超时 12 秒减半到 6 秒，失败反馈更快",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.1.5/Markdown-1.1.5.zip"
 }
