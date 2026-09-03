@@ -1,6 +1,6 @@
 {
- "version": "1.1.5",
+ "version": "1.1.6",
  "date": "2026-09-03",
- "notes": "本次更新：\n- 更新交互修复：手动检查发现新版直接弹出更新窗口（此前只显示短暂提示+红点，需要再点一次，体验像'没反应'）\n- 检查中按钮显示进度转圈；网络失败提示明确指引（代理问题）\n- 检查超时 12 秒减半到 6 秒，失败反馈更快",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.1.5/Markdown-1.1.5.zip"
+ "notes": "本次更新：\n- 暖橙主题接管整个应用窗口：左侧栏、工具栏、编辑区与预览同色调（奶油纸底，侧栏深一度），切换主题全脸变色\n- 暖橙下锁定浅色外观，深色系统模式不再出现工具栏白字糊底\n- 纯代码配色，零资源增量，体积不变（仍 4MB）",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.1.6/Markdown-1.1.6.zip"
 }
