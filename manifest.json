@@ -1,0 +1,6 @@
+{
+ "version": "1.1.1",
+ "date": "2026-09-03",
+ "notes": "本次更新：\n- 左侧栏支持文档大纲：当前文件的标题层级直接嵌在文件行下，点击跳转（预览平滑滚动/编辑光标跟随）\n- 应用内自动更新：启动时静默检查新版本，工具栏出现红点即可一键更新",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.1.1/Markdown-1.1.1.zip"
+}
