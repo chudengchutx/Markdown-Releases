@@ -1,7 +1,7 @@
 {
- "version": "1.3.1",
+ "version": "1.4.0",
  "date": "2026-09-03",
- "notes": "本次更新：\n- 主题改三态单键轮换：☀️ 白天（默认，跟随系统）→ 🌏 温暖（暖橙）→ 🌛 夜晚（强制暗色），一键切换\n- 夜晚主题：全应用入夜（界面+预览+代码高亮），不再依赖系统深色模式\n- 修复白天模式下代码高亮被暗色 token 污染的隐性对比度问题\n- 旧主题设置自动迁移，无需重新选择",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.3.1/Markdown-1.3.1.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.3.1.zip"
+ "notes": "功能四连：\n- 插入图片：工具栏选图或从访达直接拖进编辑区，图片自动存到文档同级 assets 目录并以相对路径引用（⌘⇧I 也可）\n- 导出 HTML：带完整样式与当前主题的单文件 HTML，发给别人双击就能看（⌘⇧E）\n- 打印 / 存为 PDF：⌘P 调起原生打印，所见即所得\n- 工具栏重组：分享卡/HTML/PDF/下载收进「导出」菜单",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.4.0/Markdown-1.4.0.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.4.0.zip"
 }
