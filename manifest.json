@@ -1,7 +1,7 @@
 {
- "version": "1.6.0",
- "date": "2026-09-03",
- "notes": "正式版 v1.6.0 —— Cola 设计语言全套落地：\n\n- 工具栏纸片按钮：胶囊形、白底米棕轻边、细腻阴影，悬停浮起、按压缩放；视图切换激活态橙色纸片\n- 全屏配色按真实截图校准：近白暖底 #FEFDF9、表面 #F7F3EE、低透明米棕边框、细线图标\n- 设置面板（齿轮弹窗 + ⌘, 系统设置）跟随主题三态变色\n- 夜晚主题下全套自动切暖暗变体",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.0/Markdown-1.6.0.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.0.zip"
+ "version": "1.6.1",
+ "date": "2026-09-04",
+ "notes": "正式版 v1.6.1 —— 设计语言立魂：\n- 温暖主题升格「书房模式」：衬线正文（Georgia+宋体）、书页式两端对齐、H1 后导语段、三点陶土分节符\n- 全主题阅读进度线：预览顶部 2px，颜色随主题强调色\n- 设置面板克制化：整体尺寸与间距全面收敛",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.1/Markdown-1.6.1.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.1.zip"
 }
