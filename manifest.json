@@ -1,7 +1,7 @@
 {
- "version": "1.4.1",
+ "version": "1.4.2",
  "date": "2026-09-03",
- "notes": "补齐全局快捷键（此前仅在菜单内提示）：\n⌘⇧I 插入图片 · ⌘⇧S 分享卡 · ⌘⇧E 导出 HTML · ⌘P 打印/存为 PDF\n配合已有：⌘1/2/3 切视图 · ⌘B/I/K 格式 · ⌘F 搜索",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.4.1/Markdown-1.4.1.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.4.1.zip"
+ "notes": "修复：主题轮换（尤其 🌛→☀️）时页面白闪、滚动位置丢失——\n根因是主题壳用 if/else 分支挂修饰符，分支翻转导致整个内容视图被 SwiftUI 重建、WebView 重载；现改为修饰符常驻、仅切换参数，视图身份稳定，三态切换零闪烁",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.4.2/Markdown-1.4.2.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.4.2.zip"
 }
