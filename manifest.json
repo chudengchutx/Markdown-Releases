@@ -1,7 +1,7 @@
 {
- "version": "1.6.2",
+ "version": "1.6.3",
  "date": "2026-09-04",
- "notes": "工具栏改版：去掉胶囊底与标题条；左侧搜索（⌘K）和最近文件；复制/分享常驻，主题、视图、插图收入···菜单。",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.2/Markdown-1.6.2.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.2.zip"
+ "notes": "当前文件在侧栏置顶；正文检索可搜到并黄底高亮，查找条显示命中计数。",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.3/Markdown-1.6.3.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.3.zip"
 }
