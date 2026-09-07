@@ -1,7 +1,7 @@
 {
- "version": "1.6.3",
- "date": "2026-09-04",
- "notes": "当前文件在侧栏置顶；正文检索可搜到并黄底高亮，查找条显示命中计数。",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.3/Markdown-1.6.3.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.3.zip"
+ "version": "1.6.4",
+ "date": "2026-09-07",
+ "notes": "v1.6.4：新建与打磨\n\n- 新建 Markdown：⌘N 或工具栏 +，在当前文件夹直接建「未命名.md」（重名自动加 2、3）；空文档窗口则先选保存位置，草稿不丢\n- 打开应用没有可恢复文档时，默认给一个空文档窗口，打开就能写\n- 工具栏：右上角收纳为裸图标，新增细线视图切换图标；设置面板重排\n- 设置打磨：去掉文档布局选项、头部 App 图标与版本小字、手动「检查更新」按钮\n- 更新改为启动自动检查，发现新版直接弹提示（跳过的版本不打扰）\n- 修复：无 key 窗口时文件切换失败的问题",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.4/Markdown-1.6.4.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.4.zip"
 }
