@@ -1,7 +1,7 @@
 {
- "version": "1.6.5",
+ "version": "1.6.6",
  "date": "2026-09-08",
- "notes": "v1.6.5：Mermaid 流程图与图片修复\n\n- 预览支持 Mermaid：mermaid 代码块直接渲染成流程图，配色跟随白天/温暖/夜晚三主题，解析失败自动回退代码块\n- 修复预览不显示相对路径图片：「插入图片」生成的 .assets 引用现在可见，file:// 绝对路径一并支持\n- 包体增加约 1MB（内嵌 mermaid.js）",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.5/Markdown-1.6.5.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.5.zip"
+ "notes": "v1.6.6：插入图片修复\n\n- 修复文档名带空格时「插入图片」插入的引用按原样显示成文字的问题：插入前自动对路径里的空格/括号做百分号转义，中文保留原样",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.6/Markdown-1.6.6.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.6.zip"
 }
