@@ -1,7 +1,7 @@
 {
- "version": "1.6.6",
+ "version": "1.6.7",
  "date": "2026-09-08",
- "notes": "v1.6.6：插入图片修复\n\n- 修复文档名带空格时「插入图片」插入的引用按原样显示成文字的问题：插入前自动对路径里的空格/括号做百分号转义，中文保留原样",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.6/Markdown-1.6.6.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.6.zip"
+ "notes": "修复预览本地图片显示问号：loadFileURL 授予本地读权限 + base 锚定文档目录，相对路径图片真正可显示",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.7/Markdown-1.6.7.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.7.zip"
 }
