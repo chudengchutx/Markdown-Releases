@@ -1,7 +1,7 @@
 {
- "version": "1.6.9",
+ "version": "1.6.10",
  "date": "2026-09-10",
- "notes": "修复新版已安装、旧窗口仍运行时重复更新误报降级的问题。已有相同或更高版本时不再下载覆盖，提示重启使用新版；保留安装校验和未保存文档保护。旧窗口请先保存文档，完全退出后重新打开。",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.9/Markdown-1.6.9.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.9.zip"
+ "notes": "修复 HTML 导出：图表保存为静态 SVG，图片内嵌，离线可读；缺图与无效图表明确提示。\n修复分享卡片代码块后正文丢失、行内图片遗漏及特殊字符图片路径。\n修复新建和侧栏切换后的文件绑定、外部修改后保存误报冲突。\n保留任务列表状态，改进当前窗口编辑命令和异步图表渲染。\n新增导出、卡片、文档与格式回归测试，发布前自动执行测试、版本和签名校验。",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.10/Markdown-1.6.10.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.10.zip"
 }
