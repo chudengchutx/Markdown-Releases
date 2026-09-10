@@ -1,7 +1,7 @@
 {
- "version": "1.6.7",
- "date": "2026-09-08",
- "notes": "修复预览本地图片显示问号：loadFileURL 授予本地读权限 + base 锚定文档目录，相对路径图片真正可显示",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.7/Markdown-1.6.7.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.7.zip"
+ "version": "1.6.8",
+ "date": "2026-09-10",
+ "notes": "分享卡片高清导出，Mermaid 图表也能清晰分享。阅读页点击图表可放大、缩放和拖动，Esc 返回正文。修复更新路径限制、构建版本误报及备用下载切换，增加安装校验、旧版备份和未保存文档保护。",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.8/Markdown-1.6.8.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.8.zip"
 }
