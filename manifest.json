@@ -1,7 +1,7 @@
 {
- "version": "1.6.10",
- "date": "2026-09-10",
- "notes": "修复 HTML 导出：图表保存为静态 SVG，图片内嵌，离线可读；缺图与无效图表明确提示。\n修复分享卡片代码块后正文丢失、行内图片遗漏及特殊字符图片路径。\n修复新建和侧栏切换后的文件绑定、外部修改后保存误报冲突。\n保留任务列表状态，改进当前窗口编辑命令和异步图表渲染。\n新增导出、卡片、文档与格式回归测试，发布前自动执行测试、版本和签名校验。",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.6.10/Markdown-1.6.10.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.6.10.zip"
+ "version": "1.7.0",
+ "date": "2026-09-14",
+ "notes": "预览里选中文字即可划线或写注释，右侧栏按文档顺序汇总全部标注，点击回到原文位置。\n\n标注不改动 Markdown 原文：全部存在文档旁边的 文件名.md.annotations.json。文档改动导致定位失效的标注会标为「已失效」，可手动删除，不会静默丢失。",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.0/Markdown-1.7.0.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.0.zip"
 }
