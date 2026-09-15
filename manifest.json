@@ -1,7 +1,7 @@
 {
- "version": "1.7.0",
- "date": "2026-09-14",
- "notes": "预览里选中文字即可划线或写注释，右侧栏按文档顺序汇总全部标注，点击回到原文位置。\n\n标注不改动 Markdown 原文：全部存在文档旁边的 文件名.md.annotations.json。文档改动导致定位失效的标注会标为「已失效」，可手动删除，不会静默丢失。",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.0/Markdown-1.7.0.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.0.zip"
+ "version": "1.7.1",
+ "date": "2026-09-15",
+ "notes": "修复划线不成高亮：标注起点落在文本节点末尾时端点取错，会把整个段落抠进标记里，表现为高亮只剩一个小竖条、段落变空。\n\n同时拦下两类会存成脏记录的选区（跨段落、压在已有标注上）；注释现在鼠标悬停就能在正文里读到，不用切到右侧栏；标注样式重做。",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.1/Markdown-1.7.1.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.1.zip"
 }
