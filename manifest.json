@@ -1,7 +1,7 @@
 {
- "version": "1.7.1",
- "date": "2026-09-15",
- "notes": "修复划线不成高亮：标注起点落在文本节点末尾时端点取错，会把整个段落抠进标记里，表现为高亮只剩一个小竖条、段落变空。\n\n同时拦下两类会存成脏记录的选区（跨段落、压在已有标注上）；注释现在鼠标悬停就能在正文里读到，不用切到右侧栏；标注样式重做。",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.1/Markdown-1.7.1.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.1.zip"
+ "version": "1.7.2",
+ "date": "2026-09-21",
+ "notes": "启动与点 Dock 图标时，自动恢复上次打开的文件；双击 .md 文件打开不受影响；上次的文件已不存在时仍打开空文档。",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.2/Markdown-1.7.2.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.2.zip"
 }
