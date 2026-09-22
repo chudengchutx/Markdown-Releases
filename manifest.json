@@ -1,7 +1,7 @@
 {
- "version": "1.7.2",
- "date": "2026-09-21",
- "notes": "启动与点 Dock 图标时，自动恢复上次打开的文件；双击 .md 文件打开不受影响；上次的文件已不存在时仍打开空文档。",
- "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.2/Markdown-1.7.2.zip",
- "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.2.zip"
+ "version": "1.7.3",
+ "date": "2026-09-22",
+ "notes": "修复自动更新：并行比较清单，避免旧缓存漏报；损坏安装包自动尝试备用地址；下载期间有新修改时不替换应用；修复错误输出导致的等待卡住。设置和菜单新增检查更新入口，补充失败恢复回归测试。",
+ "url": "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.3/Markdown-1.7.3.zip",
+ "urlCN": "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.3.zip"
 }
