@@ -4,10 +4,10 @@
   ],
   "date" : "2026-10-08",
   "minimumSystemVersion" : "15.0",
-  "notes" : "白色主题、文档切换与阅读体验修复。\n\n- 白色主题同步覆盖正文、编辑区、侧栏、工具栏和设置。\n- 修复切换文档时的窗口缩放跳动，首次加载使用当前字号和主题。\n- 新建移到“最近打开”右边，设置位于最右侧。\n- 优化目录与文件列表的间距和滚动空间。\n- 文件被删除或移入废纸篓后，未保存内容可另存后继续切换；取消时保留内容。",
-  "sha256" : "747373170c41209c4044e2fba6a7a46236687d5d21f86d041b745c38af92a528",
-  "signature" : "BnpF0f6LlxUqFKC22i6LgL4AGx3MOq1RHwBuPeJFnFk6J2BnQyNtVY9/barX6NP4f+qvFzq91pFOBEWoICO+BQ==",
-  "url" : "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.8/Markdown-1.7.8.zip",
-  "urlCN" : "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.8.zip",
-  "version" : "1.7.8"
+  "notes" : "修复安装完成后的自动重启，恢复更新前的文档。\n\n同时包含白色主题、文档切换、侧栏间距、工具栏顺序和失效文件恢复修复。",
+  "sha256" : "e660c05b06dd13483cea0153dd818e872f6915edf8cbb29402112e01b5a24258",
+  "signature" : "fsbxydGlFopRU/qRDmBOnt0F66/UzvZ49cehGQFmph8WfleNIKc6MaeWk9zEyUC+vM38hkxqfRuiO3hXx/+xCA==",
+  "url" : "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.9/Markdown-1.7.9.zip",
+  "urlCN" : "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.9.zip",
+  "version" : "1.7.9"
 }
