@@ -2,12 +2,12 @@
   "architectures" : [
     "arm64"
   ],
-  "date" : "2026-10-04",
+  "date" : "2026-10-08",
   "minimumSystemVersion" : "15.0",
-  "notes" : "统一鼠尾草主题；优化跨段划线、批注编辑与撤销；修复保存、编码和批注冲突；更新增加签名校验。",
-  "sha256" : "5358058ff285ee27284eceb14421999b25449e39c15fc1bb0fc914fe1ceb3ed2",
-  "signature" : "qOPgDR28R8wC7epYjpUqAt2MxYCMS5sFUJwaBIHOLxVnGmvXYsnUqPA5/EmPGS7YrGT4HBECtQLvnSS84p/aBg==",
-  "url" : "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.5/Markdown-1.7.5.zip",
-  "urlCN" : "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.5.zip",
-  "version" : "1.7.5"
+  "notes" : "目录与文件列表独立滚动：收起时固定底部，展开时跟随目录长度自适应；失效文件自动移出历史；标注栏开关移到右上角。官网与应用内更新通道同步修复。",
+  "sha256" : "1c93ace4dd35a897d693fe52cdf629627a3b5b1d2c585bcebddafeab38593eb0",
+  "signature" : "kLiwtoBTJIx1EaRFQ8w2GEgtpdg+VzMdVAsUcpXA8w4AJTNL+FOjmQsZwTLop8AHGAwutBk8YUvsql8xzg1dCw==",
+  "url" : "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.7/Markdown-1.7.7.zip",
+  "urlCN" : "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.7.zip",
+  "version" : "1.7.7"
 }
