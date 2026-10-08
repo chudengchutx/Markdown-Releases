@@ -4,10 +4,10 @@
   ],
   "date" : "2026-10-08",
   "minimumSystemVersion" : "15.0",
-  "notes" : "目录与文件列表独立滚动：收起时固定底部，展开时跟随目录长度自适应；失效文件自动移出历史；标注栏开关移到右上角。官网与应用内更新通道同步修复。",
-  "sha256" : "1c93ace4dd35a897d693fe52cdf629627a3b5b1d2c585bcebddafeab38593eb0",
-  "signature" : "kLiwtoBTJIx1EaRFQ8w2GEgtpdg+VzMdVAsUcpXA8w4AJTNL+FOjmQsZwTLop8AHGAwutBk8YUvsql8xzg1dCw==",
-  "url" : "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.7/Markdown-1.7.7.zip",
-  "urlCN" : "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.7.zip",
-  "version" : "1.7.7"
+  "notes" : "白色主题、文档切换与阅读体验修复。\n\n- 白色主题同步覆盖正文、编辑区、侧栏、工具栏和设置。\n- 修复切换文档时的窗口缩放跳动，首次加载使用当前字号和主题。\n- 新建移到“最近打开”右边，设置位于最右侧。\n- 优化目录与文件列表的间距和滚动空间。\n- 文件被删除或移入废纸篓后，未保存内容可另存后继续切换；取消时保留内容。",
+  "sha256" : "747373170c41209c4044e2fba6a7a46236687d5d21f86d041b745c38af92a528",
+  "signature" : "BnpF0f6LlxUqFKC22i6LgL4AGx3MOq1RHwBuPeJFnFk6J2BnQyNtVY9/barX6NP4f+qvFzq91pFOBEWoICO+BQ==",
+  "url" : "https://github.com/chudengchutx/Markdown-Releases/releases/download/v1.7.8/Markdown-1.7.8.zip",
+  "urlCN" : "https://fastly.jsdelivr.net/gh/chudengchutx/Markdown-Releases@main/dist/Markdown-1.7.8.zip",
+  "version" : "1.7.8"
 }
